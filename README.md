@@ -46,7 +46,7 @@ highest-grossing-films/
 ├── films_data.json     # Film data in JSON format
 ├── data_extraction.ipynb # Data extraction notebook (Python)
 └── README.md          # Project documentation
-   
+```
  
 ## 👏 Acknowledgments
 
